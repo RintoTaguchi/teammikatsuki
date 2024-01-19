@@ -1,0 +1,42 @@
+body{
+    color: #333333;
+    font-family: sans-serif;
+    width: 450px;
+    margin: 0 auto;
+}
+
+#pageHeader{
+    border-bottom: solid 1px #CCCCCC;
+    margin-bottom: 30px;
+}
+
+#siteTitle{
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+#catchcopy{
+    font-size: 15px;
+    margin-top: 0;
+    padding-left: 5px;
+}
+
+#pageTitle{
+    background-color: #F2F2E5;
+    padding: 5px 15px;
+}
+
+#pageFooter{
+    border-top: solid 1px #CCCCCC;
+    margin-top: 30px;
+}
+
+table{
+    border-collapse: collapse;
+}
+table th, table td{
+    border: 1px solid #CCCCCC;
+}
+table th{
+    background-color: #EEEEEE;
+}
